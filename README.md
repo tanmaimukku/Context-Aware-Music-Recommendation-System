@@ -1,15 +1,31 @@
-# Spotify Recommender System 
+# Context Aware Music Recommendation System
+
+**Tanmai Mukku**  
+tmukku@asu.edu  
+
+**Pavan Kalyan Reddy Cherupally**  
+pcherup1@asu.edu  
+
+**Spoorthi Uday Karakaraddi**  
+sudaykar@asu.edu  
+
+**Sai Siddharth Vemuri**  
+svemur13@asu.edu  
+
+## Abstract
+
+Music recommendation systems play a pivotal role in the digital music industry, significantly enhancing user experience by personalizing music selections. However, the majority of existing systems predominantly focus on leveraging user preferences and song metadata, neglecting the critical influence of contextual information on music choice. Our project, "Context-Aware Music Recommendation System," seeks to bridge this gap by incorporating a variety of contextual factors, such as the user’s emotional state, physical environment, and temporal variables, into the recommendation process.
+
+![Context Aware Music Recommendation System](images/music.png)
 
 ## Setup & Running
 
-Run the following set of commands to start the playlist generator
+Run the following set of commands to start the playlist generator:
 
-```
-cd searching/advanced 
+```bash
+cd searching/advanced
 python3 gen_playlist.py
-```
 
-This will start the the CLI application. 
 
 ## Generating a Playlist
 
