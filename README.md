@@ -1,13 +1,13 @@
 # Context Aware Music Recommendation System
 
+**Tanmai Mukku**  
+tmukku@asu.edu  
+
 **Pavan Kalyan Reddy Cherupally**  
 pcherup1@asu.edu  
 
 **Spoorthi Uday Karakaraddi**  
 sudaykar@asu.edu  
-
-**Tanmai Mukku**  
-tmukku@asu.edu  
 
 **Sai Siddharth Vemuri**  
 svemur13@asu.edu  
@@ -22,7 +22,7 @@ Our "Context-Aware Music Recommendation System" enhances traditional music recom
 Run the following set of commands to start the playlist generator:
 
 ```bash
-cd searching/advanced
+cd code/searching/advanced
 python3 gen_playlist.py
 ```
 
